@@ -32,7 +32,8 @@ def feedbackview(request):
         return render(request,'feedback.html',{'fform':fform,'feedbacks':feedbacks})
 
 
-
+def abcd(request):
+    pass
 
 
 
